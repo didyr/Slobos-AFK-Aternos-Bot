@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "Vaiserbot",
+    "password": "1234567543",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "VaiserMc.aternos.me",
+    "port": 41419,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "صلي على النبي",
+        "اشترك عند R2H",
+        "Subscribe to r2h"
       ]
     },
     "chat-log": true,
